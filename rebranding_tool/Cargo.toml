@@ -1,0 +1,11 @@
+[package]
+name = "rebranding"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+walkdir = "2"
+encoding_rs = "0.8"
+encoding_rs_io = "0.1"
