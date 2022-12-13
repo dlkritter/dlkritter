@@ -1,0 +1,12 @@
+[package]
+name = "incremental_load"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+fhir-rs = { git = "https://github.com/fhirproject/fhir-rs-parser" }
+polars = {version = "0.22.6", features = ["parquet"]} 
+polars-core = "0.22.6"
+polars-io ={version = "0.22.6", features = ["parquet"]}
