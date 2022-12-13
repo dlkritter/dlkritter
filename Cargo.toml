@@ -1,13 +1,12 @@
 [package]
-name = "csv_to_odbc"
+name = "blob_storage_pull"
 version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-polars = {version = "0.22.8"} 
-polars-core = "0.22.7"
-polars-io ={version = "0.22.7"}
-odbc = "0.17.0"
-env_logger = "0.9.0"
+azure_core = "0.3.0"
+azure_sdk_storage_blob = "0.45.3"
+futures = "0.3.21"
+log = "0.4.17"
