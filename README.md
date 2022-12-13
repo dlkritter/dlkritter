@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dlkritter
 - 👀 I’m interested in creating meaningful products to help healthcare pros do their best 💪
-- 🌱 I’m currently learning GQL 📉📈 and becoming a full on Rustacean 🦀
+- 🌱 I love learning 🤩 ProudRustacean 🦀
 - 💞️ I’m always here for my team members
 - 📫 via microsoft suite (Teams, Outlook) 
 
